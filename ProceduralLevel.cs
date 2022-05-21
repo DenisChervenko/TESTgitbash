@@ -370,4 +370,6 @@ public class ProceduralLevel : MonoBehaviour
             _canSpawnAngle = false;
         }
     }
+
+    private void TestLine() => return;
 }
