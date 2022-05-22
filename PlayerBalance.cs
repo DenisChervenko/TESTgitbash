@@ -10,7 +10,7 @@ public class PlayerBalance : MonoBehaviour
     {
         if(PlayerPrefs.HasKey("Coin"))
         {
-            return;
+            //return
         }
     }
 }
