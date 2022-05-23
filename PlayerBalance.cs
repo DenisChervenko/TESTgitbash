@@ -13,4 +13,9 @@ public class PlayerBalance : MonoBehaviour
             //return
         }
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

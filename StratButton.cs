@@ -21,4 +21,9 @@ public class StratButton : MonoBehaviour
 
         gameObject.SetActive(false);
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

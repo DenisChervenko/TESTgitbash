@@ -63,4 +63,9 @@ public class MoveInteractableObjects : MonoBehaviour
             gameObject.SetActive(false);
         }
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

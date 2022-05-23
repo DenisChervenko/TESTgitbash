@@ -130,4 +130,9 @@ public class ObjectPool : MonoBehaviour
             _elapsedTime = 0;
         }
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

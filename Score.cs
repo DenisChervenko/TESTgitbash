@@ -17,4 +17,9 @@ public class Score : MonoBehaviour
 
         _scoreText.text = Convert.ToString(_score);
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

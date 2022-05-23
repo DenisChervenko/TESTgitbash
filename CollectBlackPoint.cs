@@ -52,4 +52,9 @@ public class CollectBlackPoint : MonoBehaviour
             _player.enabled = false;
         }
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

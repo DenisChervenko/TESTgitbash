@@ -34,4 +34,9 @@ public class PlayerControl : SimpleInput
             _rb.velocity = new Vector2(_speedMove, 0);
         }
     }
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }

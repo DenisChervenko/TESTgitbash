@@ -372,4 +372,9 @@ public class ProceduralLevel : MonoBehaviour
     }
 
     private void TestLine() => return;
+
+    private void TESTmethod()
+    {
+        return;
+    }
 }
