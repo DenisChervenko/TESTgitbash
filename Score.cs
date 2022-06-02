@@ -20,8 +20,6 @@ public class Score : MonoBehaviour
 
     private void TESTmethod()
     {
-        return;
-
-        //test line
+        //hello world
     }
 }
