@@ -57,4 +57,12 @@ public class CollectBlackPoint : MonoBehaviour
     {
         return;
     }
+
+    private void TESTlineForGit()
+    {
+        for(int i = 0; ;i++)
+        {
+            --i;
+        }
+    }
 }
